@@ -82,6 +82,7 @@ nav li a:hover {
 .card h2 {
     margin-top: 0;
     text-align: center;
+    color: #FFD700;
 }
 
 .button {
@@ -97,3 +98,9 @@ nav li a:hover {
 .button:hover {
     background-color: #FFA500;
 }
+
+.posts{
+    color: #FFD700;
+    text-align: center;
+}
+
